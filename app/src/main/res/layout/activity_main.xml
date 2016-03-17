@@ -16,6 +16,7 @@
         android:text="FB-Integration Demo!"
         android:id="@+id/textView2" />
 
+    <!--Container Layout-->
     <FrameLayout
         android:id="@+id/container"
         android:layout_width="match_parent"

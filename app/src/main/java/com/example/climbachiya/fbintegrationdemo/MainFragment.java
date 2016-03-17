@@ -22,6 +22,7 @@ import com.facebook.login.widget.LoginButton;
 
 /**
  * A placeholder fragment containing a simple view.
+ * Facebook init from here
  */
 public class MainFragment extends Fragment {
 

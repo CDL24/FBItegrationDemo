@@ -10,7 +10,7 @@ import android.util.Log;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-
+//Application level class
 public class MyApplication extends Application {
 
     @Override
